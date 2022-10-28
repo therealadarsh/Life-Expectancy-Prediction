@@ -1,0 +1,64 @@
+,IndicatorName
+0,CountryName
+1,Year
+2,"Life expectancy at birth, total (years)"
+3,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+4,Age dependency ratio (% of working-age population)
+5,"Age dependency ratio, old (% of working-age population)"
+6,"Age dependency ratio, young (% of working-age population)"
+7,Agricultural land (% of land area)
+8,Agricultural land (sq. km)
+9,Arable land (% of land area)
+10,Arable land (hectares per person)
+11,"Birth rate, crude (per 1,000 people)"
+12,CO2 emissions (kt)
+13,CO2 emissions (metric tons per capita)
+14,CO2 emissions from gaseous fuel consumption (% of total)
+15,CO2 emissions from gaseous fuel consumption (kt)
+16,CO2 emissions from liquid fuel consumption (% of total)
+17,CO2 emissions from liquid fuel consumption (kt)
+18,CO2 emissions from solid fuel consumption (% of total)
+19,CO2 emissions from solid fuel consumption (kt)
+20,Cereal production (metric tons)
+21,Cereal yield (kg per hectare)
+22,Crop production index (2004-2006 = 100)
+23,"Death rate, crude (per 1,000 people)"
+24,"Fertility rate, total (births per woman)"
+25,Food production index (2004-2006 = 100)
+26,GDP at market prices (current US$)
+27,GDP per capita (current US$)
+28,Land area (sq. km)
+29,Land under cereal production (hectares)
+30,Livestock production index (2004-2006 = 100)
+31,Merchandise exports (current US$)
+32,Merchandise exports by the reporting economy (current US$)
+33,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)"
+34,Merchandise exports to high-income economies (% of total merchandise exports)
+35,Merchandise imports (current US$)
+36,Merchandise imports by the reporting economy (current US$)
+37,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)"
+38,Merchandise imports from high-income economies (% of total merchandise imports)
+39,Merchandise trade (% of GDP)
+40,"Mortality rate, adult, female (per 1,000 female adults)"
+41,"Mortality rate, adult, male (per 1,000 male adults)"
+42,"Mortality rate, infant (per 1,000 live births)"
+43,"Mortality rate, under-5 (per 1,000)"
+44,Number of infant deaths
+45,Number of under-five deaths
+46,Permanent cropland (% of land area)
+47,Population ages 65 and above (% of total)
+48,Population density (people per sq. km of land area)
+49,Population growth (annual %)
+50,"Population, ages 0-14 (% of total)"
+51,"Population, ages 15-64 (% of total)"
+52,"Population, female (% of total)"
+53,"Population, total"
+54,Rural population
+55,Rural population (% of total population)
+56,Rural population growth (annual %)
+57,Surface area (sq. km)
+58,"Survival to age 65, female (% of cohort)"
+59,"Survival to age 65, male (% of cohort)"
+60,Urban population
+61,Urban population (% of total)
+62,Urban population growth (annual %)

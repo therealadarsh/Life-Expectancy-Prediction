@@ -1,0 +1,8 @@
+Type,Model,Score
+Classifier,KNN n = 5,0.8448649201277956
+Classifier,Logistic Regression,0.8547718849840255
+Classifier,Multi Layer Perceptron,0.8194568690095847
+Classifier,Random Forest,0.8931174440894569
+Regression,Multi Layer Perceptron,0.5685617010669904
+Regression,KNN n = 12,0.7497289274990149
+Regression,Multilinear,0.7544132294183508
